@@ -1,5 +1,5 @@
 compress-configs:
-	cd data && zip -r configs.zip configs
+	cd data && rm -f configs.zip && zip -r configs.zip configs
 
 compress-inputs:
-	cd data && zip -r inputs.zip inputs
+	cd data && rm -f inputs.zip && zip -r inputs.zip inputs
