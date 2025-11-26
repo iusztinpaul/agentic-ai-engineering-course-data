@@ -17,7 +17,8 @@
   - Frustrated users who can't rely on the AI application
   - Frustrated executives who cannot affort to keep the AI agent running as the costs are too high relative to the profits
 - Make a quick reference to the real-world where in 2024-2025 billion-dollar AI startups succeed or fail based primarily on this architectural decision. The successful companies, teams and AI engineers know when to use workflows versus agents, and more importantly, how to combine both approaches effectively.
-- **Quick walkthrough of what we'll learn by the end of this lesson:** Take the core ideas of what we'll learn in the lesson from the `What We Are Planning to Share` subsection and highlight the importance and existence of the lesson from `Why We Think It's Valuable` subsection of the `Global Context of the Lesson` section.
+- Quick walkthrough of what we'll learn by the end of this lesson
+
 - **Section length:** 300 words
 
 ## Section 2 - Understanding the Spectrum: From Workflows to Agents
