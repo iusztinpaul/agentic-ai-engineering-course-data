@@ -29,7 +29,7 @@
 	- Characteristics: The steps are defined in advance, resulting in deterministic or rule-based paths with predictable execution and explicit control flow. 
 	- Analogy: A factory assembly line.
 	- Concepts we will learn in future lessons: chaining, routing, orchestrator-worker patterns
-	- Attach an image from the research with a simple LLM Workflow.
+	- Generate a mermaid diagram with an LLM workflow
 - On **AI agents** we care about:
 	- Definition: Systems where an LLM (or multiple LLMs) plays a central role in dynamically deciding (planning) the sequence of steps, reasoning, and actions to achieve a goal. The steps are not defined in advance, but are dynamically planned based on the task and current state of the environment.
 	- Characteristics: Adaptive, capable of handling novelty, LLM-driven autonomy in decision-making and execution path.
