@@ -1,7 +1,3 @@
-I have carefully reviewed the article and applied the necessary edits based on your feedback. The changes prioritize human feedback, followed by article guideline requirements, and then other profile constraints. I have ensured all factual information remains anchored in the provided research and article guideline, and that the text flows naturally.
-
-Here is the revised article:
-
 # The Decision Every AI Engineer Faces
 ### navigating the AI architecture spectrum: workflows vs. agents
 
